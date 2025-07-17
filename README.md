@@ -20,7 +20,7 @@ Aqui compartilho meus projetos em **Análise de Dados**.
 
 ## 📚 Aqui, você encontrará:
 
-- **Meu Portfolio**: Projetos de análise de dados desenvolvidos para meu portfólio;
+- **Meu Portfólio**: Projetos de análise de dados desenvolvidos para meu portfólio;
 - **Meus Estudos**: Materiais, anotações e resumos sobre conteúdos que estou aprendendo.
 
 ## 🌐 Redes
